@@ -1,0 +1,14 @@
+C:\Projetos Xamari\Consultar_CEP\Consultar_CEP\Consultar_CEP\bin\Debug\netstandard2.0\Consultar_CEP.deps.json
+C:\Projetos Xamari\Consultar_CEP\Consultar_CEP\Consultar_CEP\bin\Debug\netstandard2.0\Consultar_CEP.dll
+C:\Projetos Xamari\Consultar_CEP\Consultar_CEP\Consultar_CEP\obj\Debug\netstandard2.0\Consultar_CEP.csprojAssemblyReference.cache
+C:\Projetos Xamari\Consultar_CEP\Consultar_CEP\Consultar_CEP\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Projetos Xamari\Consultar_CEP\Consultar_CEP\Consultar_CEP\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Projetos Xamari\Consultar_CEP\Consultar_CEP\Consultar_CEP\obj\Debug\netstandard2.0\Consultar_CEP.AssemblyInfoInputs.cache
+C:\Projetos Xamari\Consultar_CEP\Consultar_CEP\Consultar_CEP\obj\Debug\netstandard2.0\Consultar_CEP.AssemblyInfo.cs
+C:\Projetos Xamari\Consultar_CEP\Consultar_CEP\Consultar_CEP\bin\Debug\netstandard2.0\ref\Consultar_CEP.dll
+C:\Projetos Xamari\Consultar_CEP\Consultar_CEP\Consultar_CEP\bin\Debug\netstandard2.0\Consultar_CEP.pdb
+C:\Projetos Xamari\Consultar_CEP\Consultar_CEP\Consultar_CEP\obj\Debug\netstandard2.0\Consultar_CEP.csproj.CoreCompileInputs.cache
+C:\Projetos Xamari\Consultar_CEP\Consultar_CEP\Consultar_CEP\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Projetos Xamari\Consultar_CEP\Consultar_CEP\Consultar_CEP\obj\Debug\netstandard2.0\Consultar_CEP.dll
+C:\Projetos Xamari\Consultar_CEP\Consultar_CEP\Consultar_CEP\obj\Debug\netstandard2.0\ref\Consultar_CEP.dll
+C:\Projetos Xamari\Consultar_CEP\Consultar_CEP\Consultar_CEP\obj\Debug\netstandard2.0\Consultar_CEP.pdb
